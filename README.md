@@ -17,5 +17,5 @@ This dashboard is useful for identifying trends in customer demographics, popula
 - Microsoft Excel or compatible software to view the dashboard.
 
 ### Preview
-![Dashboard Preview](link-to-screenshot-on-github)
+![Dashboard Preview](Vrinda-Store-Annual-Report-Dashboard.JPG)
 
